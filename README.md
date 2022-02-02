@@ -1,6 +1,6 @@
 ### Salve! 👋
 
-Me chamo Leonardo e gosto de conversar sobre qualquer assunto em programação. Estou constantemente buscando algum aprendizado e sou apaixonado por SPA's, e café :coffee:
+Gosto de conversar sobre qualquer assunto em programação. Estou constantemente buscando algum aprendizado e sou apaixonado por SPA's, e café :coffee:
 
 Nasci em Santos-SP e sempre tive uma enorme curiosidade com tecnologia e desenvolvimento WEB. Comecei a programar ainda jovem, e entrando na faculdade fui criando um gosto muito maior pela coisa :sunglasses:.
 
