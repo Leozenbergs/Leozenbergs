@@ -1,5 +1,6 @@
 ### Greetings! 👋
 
+
 I like to talk about any subject in programming. I'm constantly looking for some learning and I'm passionate about SPA's, and coffee ☕
 
 I was born in Santos-SP and I've always had a huge curiosity about technology and WEB development. I started programming at a young age, and entering college I developed a much greater taste for the thing 😎.
