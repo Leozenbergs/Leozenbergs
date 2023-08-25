@@ -13,5 +13,8 @@ My main hobbies when I'm not programming(rs) are games and music 😍. I find it
 
 - 📫 You can find me also through my [Linkedin](https://www.linkedin.com/in/leonardoabreurodrigues/)
 
+- Or through my [email](mailto:contato@leonardorodrigues.me)
+  
+
 It was a pleasure having you here 😃
 See ya!
