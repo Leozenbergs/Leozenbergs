@@ -1,4 +1,4 @@
-### Greetings! 👋
+### Greetings! 🖖
 
 
 I like to talk about any subject in programming. I'm constantly looking for some learning and I'm passionate about SPA's, and coffee ☕
