@@ -16,5 +16,4 @@ My main hobbies when I'm not programming(rs) are games and music 😍. I find it
   - Or through my [email](mailto:contato@leonardorodrigues.me)
   
 
-It was a pleasure having you here 😃
-See ya!
+It was a pleasure having you here 👋
