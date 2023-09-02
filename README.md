@@ -12,6 +12,7 @@ My main hobbies when I'm not programming(rs) are games and music 😍. I find it
 - 📖 Currently my focus is on studying architectures and micro-frontends. If you parachuted around here and are also interested in these technologies, ping me to have a chat, I'd love to learn and share knowledge.
 
 - 📫 You can find me also through my [Linkedin](https://www.linkedin.com/in/leonardoabreurodrigues/)
+  - Through my [portfolio](https://leozenbergs.github.io/)
 
   - Or through my [email](mailto:contato@leonardorodrigues.me)
   
